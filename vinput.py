@@ -23,11 +23,11 @@
 #  
 
 """
-VInput 1.0
+VInput 1.1
 Simple console input with validation and (TODO: optional) color feedback.
 
 USAGE:
-from vinput import vinput
+from vinput import vinput, VALID_LIST
 answer = vinput("Do you want to quit smoking?",default=None,validation=VALID_LIST,options=["yes","no"])
 print("You answered %s."%answer)
 """
