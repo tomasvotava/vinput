@@ -9,14 +9,14 @@ So far, ***vinput*** requires that you have [pformat](https://github.com/tomasvo
 ### Install prerequisites
 #### pformat
 ```bash
-$ git clone https://github.com/tomasvotava/pformat
+$ git clone https://github.com/tomasvotava/pformat.git
 $ cd pformat
 $ ./setup.py install
 ```
 
 ### Install VInput
 ```bash
-$ git clone https://github.com/tomasvotava/vinput
+$ git clone https://github.com/tomasvotava/vinput.git
 $ cd vinput
 $ ./setup.py install
 ```
