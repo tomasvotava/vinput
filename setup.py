@@ -25,7 +25,7 @@
 from setuptools import setup, find_packages
 setup(
 	name="VInput",
-	version="1.2",
+	version="1.2.1",
 	#packages=[],
 	py_modules=["vinput"],
 	author="Tomas Votava",
